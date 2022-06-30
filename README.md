@@ -12,5 +12,5 @@ Build an PWM system that can detect if there's any object is approaching the sen
 ## Software:
 - Python IDE
 
-## Project running demo:
+## Project running demonstration:
 https://www.youtube.com/watch?v=Iv_M7E_XltE
